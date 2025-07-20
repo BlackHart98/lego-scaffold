@@ -11,5 +11,5 @@ python ./bin/lego-scaffold init <project_name>
 
 
 > [!Warning]
-> - Right I only support macOs and python 3.11+
+> - Right now I only support macOs and python 3.11+
 > - This is still a work in progress, so it's still very brittle
